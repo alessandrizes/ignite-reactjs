@@ -36,7 +36,19 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // instala o babel/preset-react para compreensão do código react no browser
     
     `yarn add @babel/preset-react -D`
-- [ ] Configurando Webpack
+- [x] Configurando Webpack
+
+    // instala o webpack para auxiliar na conversão de arquivos de diferentes tipos para o browser
+    
+    `yarn add webpack webpack-cli -D`
+
+    // instala o babel-loader para integrar o babel com o webpack
+
+    `yarn add babel-loader -D` 
+
+    // executa o webpack
+
+    `yarn webpack`
 - [ ] Estrutura do ReactJS
 - [ ] Servindo HTML estático
 - [ ] Webpack Dev Server
