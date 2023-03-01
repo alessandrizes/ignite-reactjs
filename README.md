@@ -49,7 +49,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // executa o webpack
 
     `yarn webpack`
-- [ ] Estrutura do ReactJS
+- [x] Estrutura do ReactJS
 - [ ] Servindo HTML estático
 - [ ] Webpack Dev Server
 - [ ] Utilizando source maps
@@ -98,7 +98,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
 A mensagem do commit deve ser estruturada da seguinte forma:
 
-    <tipo>[escopo]: <descrição>
+    tipo(escopo): descrição
 
 ## O **tipo** deve seguir os seguintes mencionado abaixo:
 - **fix:** um commit do tipo `fix` soluciona um problema na sua base de código, isso se correlaciona com PATCH do versionamento semântico.
