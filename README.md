@@ -20,10 +20,22 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
     `yarn add react` 
 
-    // instala a react-dom para habilitar a árvore de elementos do HTML no react
+    // instala o react-dom para habilitar a árvore de elementos do HTML no react
 
     `yarn add react-dom`
-- [ ] Configurando Babel
+- [x] Configurando Babel
+
+    // instala o babel como dependencia de desenvolvimento para compilar javaScript
+
+    `yarn add @babel/core @babel/cli @babel/preset-env -D`
+
+    // compila arquivo index.jsx e cria um novo arquivo bundle.js
+
+    `yarn babel src/index.jsx --out-file dist/bundle.js`
+
+    // instala o babel/preset-react para compreensão do código react no browser
+    
+    `yarn add @babel/preset-react -D`
 - [ ] Configurando Webpack
 - [ ] Estrutura do ReactJS
 - [ ] Servindo HTML estático
@@ -88,7 +100,7 @@ A mensagem do commit deve ser estruturada da seguinte forma:
 - **ci:** um commit do tipo `ci` inclui atualização do fluxo de trabalho.
 - **perf:** um commit do tipo `perf` inclui um código que melhora o desempenho.
 - **BREAKING CHANGE:** um commit que contém no rodapé opcional o texto `BREAKING CHANGE:`, ou contém o símbolo `!` depois do tipo/escopo, introduz uma modificação que quebra a compatibilidade da API (isso se correlaciona com MAJOR do versionamento semântico). Uma BREAKING CHANGE pode fazer parte de commits de qualquer tipo.
-- **revert** um commit do tipo `revert` é usado para reverter código.
+- **revert:** um commit do tipo `revert` é usado para reverter código.
 
 ## O **escopo** deve seguir os detalhes abaixo:
 - É opcional.
