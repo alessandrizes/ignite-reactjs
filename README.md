@@ -63,7 +63,11 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
     `yarn webpack serve`
 - [x] Utilizando source maps
-- [ ] Ambiente dev e produção
+- [x] Ambiente dev e produção
+
+    // adiciona cross-env para definir variáveis de ambiente em qualquer sistema operacional
+
+    `yarn add cross-env -D`
 - [ ] Importando arquivos CSS
 - [ ] Utilizando SASS
 </details>
