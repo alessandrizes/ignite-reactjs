@@ -50,7 +50,10 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
     `yarn webpack`
 - [x] Estrutura do ReactJS
-- [ ] Servindo HTML estático
+- [x] Servindo HTML estático
+    // adiciona html-webpack-plugin para injetar arquivo js no HTML automaticamente
+
+    `yarn add html-webpack-plugin -D`
 - [ ] Webpack Dev Server
 - [ ] Utilizando source maps
 - [ ] Ambiente dev e produção
