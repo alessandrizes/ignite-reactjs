@@ -62,7 +62,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // executa o webserver localmente
 
     `yarn webpack serve`
-- [ ] Utilizando source maps
+- [x] Utilizando source maps
 - [ ] Ambiente dev e produção
 - [ ] Importando arquivos CSS
 - [ ] Utilizando SASS
