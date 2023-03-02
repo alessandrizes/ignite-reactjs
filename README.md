@@ -73,7 +73,17 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // adiciona style-loader e css-loader para compreensão dos arquivos .css
 
     `yarn add style-loader css-loader -D`
-- [ ] Utilizando SASS
+- [x] Utilizando SASS
+
+    // adiciona SASS como preprocessador no projeto
+
+    `yarn add sass-loader -D`
+
+    `yarn add node-sass -D`
+
+    // remove dependência do projeto
+
+    `yarn remove sass`
 </details>
 
 <details>
