@@ -54,7 +54,14 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // adiciona html-webpack-plugin para injetar arquivo js no HTML automaticamente
 
     `yarn add html-webpack-plugin -D`
-- [ ] Webpack Dev Server
+- [x] Webpack Dev Server
+    // adiciona webpack-dev-server para automatizar observador de alterações no código
+
+    `yarn add webpack-dev-server -D`
+
+    // executa o webserver localmente
+
+    `yarn webpack serve`
 - [ ] Utilizando source maps
 - [ ] Ambiente dev e produção
 - [ ] Importando arquivos CSS
