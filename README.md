@@ -42,7 +42,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     
     `yarn add webpack webpack-cli -D`
 
-    // instala o babel-loader para integrar o babel com o webpack
+    // instala o babel-loader para integrar o babel com o webpack e compreensão dos arquivos .js
 
     `yarn add babel-loader -D` 
 
@@ -68,7 +68,11 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     // adiciona cross-env para definir variáveis de ambiente em qualquer sistema operacional
 
     `yarn add cross-env -D`
-- [ ] Importando arquivos CSS
+- [x] Importando arquivos CSS
+
+    // adiciona style-loader e css-loader para compreensão dos arquivos .css
+
+    `yarn add style-loader css-loader -D`
 - [ ] Utilizando SASS
 </details>
 
