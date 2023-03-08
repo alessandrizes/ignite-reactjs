@@ -103,7 +103,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 <details>
 <summary>3. Chamadas HTTP</summary>
 
- - [ ] Estilização da listagem
+ - [x] Estilização da listagem
  - [ ] Utilizando o useEffect
  - [ ] Listando repositórios
 </details>
