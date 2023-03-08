@@ -105,7 +105,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
  - [x] Estilização da listagem
  - [x] Utilizando o useEffect
- - [ ] Listando repositórios
+ - [x] Listando repositórios
 </details>
 
 <details>
