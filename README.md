@@ -89,8 +89,8 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 <details>
 <summary>2. Conceitos importantes</summary>
 
- - [ ] Primeiro componente React
- - [ ] Propriedades no React
+ - [x] Primeiro componente React
+ - [x] Propriedades no React
  - [ ] Estado do componente
  - [ ] A imutabilidade no React
  - [ ] Fast Refresh no Webpack
