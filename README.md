@@ -93,7 +93,11 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
  - [x] Propriedades no React
  - [x] Estado do componente
  - [x] A imutabilidade no React
- - [ ] Fast Refresh no Webpack
+ - [x] Fast Refresh no Webpack
+
+    // adiciona react-refresh para alterar e salvar o código mantendo estado dos componentes no browser
+
+    `yarn add -D @pmmmwh/react-refresh-webpack-plugin react-refresh`
 </details>
 
 <details>
