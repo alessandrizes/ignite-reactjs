@@ -165,11 +165,14 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 <details>
 <summary>5. Finalizando aplicação</summary>
 
- - [ ] Utilizando React DevTools
+ - [x] Utilizando React DevTools
+
+    // instalada como estenção no Chrome `React Developer Tools`
+
  - [ ] Finalização do módulo
 
-
-</details></br>
+</details>
+</br>
 
 # Padrão para os commits
  Documentação oficial: [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
