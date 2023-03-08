@@ -139,7 +139,26 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
     })
     ```
     
- - [ ] TypeScript no ReactJS
+ - [x] TypeScript no ReactJS
+
+    // adiciona o typescript como uma dependência de desenvolvimento
+
+    `yarn add typescript -D`
+
+    // inicia o typescript na aplicação
+
+    `yarn tsc --init`
+
+    // adiciona @babel/preset-typescript para compreensão do typescript
+
+    `yarn add @babel/preset-typescript -D `
+
+    // adiciona @types/react e @types/react-dom para compreensão do typescript
+
+    `yarn add @types/react-dom -D`
+
+    `yarn add @types/react -D`
+
  - [ ] Componentes com TypeScript
 </details>
 
