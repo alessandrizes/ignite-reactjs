@@ -159,7 +159,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
     `yarn add @types/react -D`
 
- - [ ] Componentes com TypeScript
+ - [x] Componentes com TypeScript
 </details>
 
 <details>
