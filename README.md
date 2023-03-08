@@ -111,7 +111,34 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 <details>
 <summary>4. Usando TypeScript</summary>
 
- - [ ] Fundamentos do TypeScript
+ - [x] Fundamentos do TypeScript
+
+    // um superset para javaScript, exemplo:
+
+    ```
+    type User = {
+        name: string
+        email: string
+        address: {
+            city: string
+            state?: string
+        }
+    }
+
+    function showWelcomeMessage(user: User) {
+        return `Welcome ${user.name}, your e-mail is ${user.email}. Your city is ${user.address.city} and your state is ${user.address.state}`
+    }
+
+    showWelcomeMessage({
+        name:'John Doe',
+        email: 'john@doe.com',
+        address: {
+            city: 'New York',
+            state: 'NY'
+        }
+    })
+    ```
+    
  - [ ] TypeScript no ReactJS
  - [ ] Componentes com TypeScript
 </details>
