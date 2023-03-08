@@ -92,7 +92,7 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
  - [x] Primeiro componente React
  - [x] Propriedades no React
  - [x] Estado do componente
- - [ ] A imutabilidade no React
+ - [x] A imutabilidade no React
  - [ ] Fast Refresh no Webpack
 </details>
 
