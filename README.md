@@ -169,7 +169,14 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 
     // instalada como estenção no Chrome `React Developer Tools`
 
- - [ ] Finalização do módulo
+ - [x] Finalização do módulo
+</details>
+
+<details>
+<summary>6. Desafios</summary>
+
+ - [x] [Desafio 01 - Conceitos do ReactJS](https://github.com/alessandrizes/desafio-01-conceitos-do-react)
+ - [x] [Desafio 02 - Componentizando a aplicação](https://github.com/alessandrizes/desafio-02-componentizando-a-aplicacao)
 
 </details>
 </br>
