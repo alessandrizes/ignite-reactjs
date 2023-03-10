@@ -224,7 +224,10 @@ Desenvolvendo a primeira aplicação real, sendo um projeto com as melhores prá
 
     `yarn create react-app 02-dtmoney --template typescript`
 
- - [ ] Exportando assets do Figma
+ - [x] Exportando assets do Figma
+
+    [Link do layout do projeto no figma](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1&t=OV5VKFBDa4NBv4FA-0)
+
  - [ ] Instalando Styled Components
  - [ ] Criando estilos globais
  - [ ] Fontes do Google Fonts
