@@ -238,7 +238,13 @@ Desenvolvendo a primeira aplicação real, sendo um projeto com as melhores prá
 
     ` yarn add @types/styled-components -D`
 
- - [ ] Criando estilos globais
+ - [x] Criando estilos globais
+
+    // font-size: 16px
+    // 100 / 16px * 15px = 93.95%
+    // 100 / 16px * 14px = 87.5%
+    // 1rem = 16px
+
  - [ ] Fontes do Google Fonts
 
 </details>
