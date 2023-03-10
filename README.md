@@ -215,9 +215,15 @@ Fundamentos iniciais da programação da web com ReactJS, bibliotecas de superte
 Desenvolvendo a primeira aplicação real, sendo um projeto com as melhores práticas de desenvolvimento usadas no mercado.
 
 <details>
-<summary>1. Introdução do módulo</summary>
+<summary>1. Estrutura da aplicação</summary>
 
+ - [x] Introdução do módulo
  - [x] Estrutura com create-react-app
+
+    // cria uma nova aplicação react com typescript já configurado
+
+    `yarn create react-app 02-dtmoney --template typescript`
+
  - [ ] Exportando assets do Figma
  - [ ] Instalando Styled Components
  - [ ] Criando estilos globais
