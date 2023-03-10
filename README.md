@@ -245,7 +245,7 @@ Desenvolvendo a primeira aplicação real, sendo um projeto com as melhores prá
     // 100 / 16px * 14px = 87.5%
     // 1rem = 16px
 
- - [ ] Fontes do Google Fonts
+ - [x] Fontes do Google Fonts
 
 </details>
 
