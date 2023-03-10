@@ -228,7 +228,16 @@ Desenvolvendo a primeira aplicação real, sendo um projeto com as melhores prá
 
     [Link do layout do projeto no figma](https://www.figma.com/file/0xmu9mj2TJYoIOubBFWsk5/dtmoney-Ignite-(Copy)?node-id=0%3A1&t=OV5VKFBDa4NBv4FA-0)
 
- - [ ] Instalando Styled Components
+ - [x] Instalando Styled Components
+
+    // adiciona styled-components lib de css para JS
+
+    `yarn add styled-components`
+
+    // adiciona @types/styled-components devido a dependência
+
+    ` yarn add @types/styled-components -D`
+
  - [ ] Criando estilos globais
  - [ ] Fontes do Google Fonts
 
